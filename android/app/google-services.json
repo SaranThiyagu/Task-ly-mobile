@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "134262292517",
+    "project_id": "loginapp-cdf05",
+    "storage_bucket": "loginapp-cdf05.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134262292517:android:ec38198aa2384fb93f7fcc",
+        "android_client_info": {
+          "package_name": "com.demo.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134262292517-ltqd06oepa97mkbollbb6gg617llabjn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demo.loginapp",
+            "certificate_hash": "4f8ca32a9474755999b63431c35ade0c35540a3b"
+          }
+        },
+        {
+          "client_id": "134262292517-ii9ehi1vq607cvgd20v11a3bnm56m26f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe3R3nlGvoJXn-RGO06s7avAUQpWo913w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134262292517-ii9ehi1vq607cvgd20v11a3bnm56m26f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "134262292517-ac153ojioanblgnd9fnng6lav3jhcncj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.demo.loginapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
